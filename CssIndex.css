@@ -1,0 +1,403 @@
+.Body{
+    background-color: rgb(44, 62, 145);
+
+}
+.pic1css{
+    position: fixed;
+    transition-duration: 0.5s;
+    left: 0%;
+    top: 0%;
+    height: 100%;
+    width: 100%;
+    background-repeat:repeat;
+    background-image: url("circles_neon_light_texture-589540.jpg");
+}
+
+.pic2css{
+    position: fixed;
+    transition-duration: 0.5s;
+    left: -100%;
+    top: 0%;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(109, 255, 117);
+}
+.pic3css{
+    position: fixed;
+    transition-duration: 0.5s;
+    left: -100%;
+    top: 0%;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(255, 113, 113);
+}
+.pic4css{
+    position: fixed;
+    transition-duration: 0.5s;
+    left: -100%;
+    top: 0%;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(57, 151, 151);
+}
+.pic5css{
+    position: fixed;
+    transition-duration: 0.5s;
+    left: -100%;
+    top: 0%;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(255, 197, 121);
+}
+.pic6css{
+    position: fixed;
+    transition-duration: 0.5s;
+    left: -100%;
+    top: 0%;
+    height: 100%;
+    width: 100%;
+    background-color: aquamarine;
+}
+.pic7css{
+    position: fixed;
+    transition-duration: 0.5s;
+    left: -100%;
+    top: 0%;
+    height: 100%;
+    width: 100%;
+    background-color: blueviolet;
+}
+.navicss{
+    position: fixed;
+    left: 45%;
+    font-size: 150%;
+    color: rgb(197, 163, 163);
+}
+.imgcss{
+    position: fixed;
+    opacity: 0.7   ;
+    left: 22.5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    top: 7%;
+}
+
+
+.butcss1{
+    position: fixed;
+    top:25% ;
+    height: 6%;
+    width: 6%;
+    left: 20%;
+    transition-duration:0.5s ;
+    background-color: rgb(127, 204, 214);
+    color: rgb(36, 1, 1);
+}
+.butcss2{
+    position: fixed;
+    top:35% ;
+    height: 6%;
+    width: 6%;
+    left: 20%;
+    transition-duration:0.5s ;
+    background-color: rgb(127, 204, 214);
+    color: rgb(36, 1, 1);
+}
+.butcss3{
+    position: fixed;
+    top:25% ;
+    height: 6%;
+    width: 6%;
+    left: 45%;
+    transition-duration:0.5s ;
+    background-color: rgb(127, 204, 214);
+    color: rgb(36, 1, 1);
+}
+.butcss4{
+    position: fixed;
+    top:35% ;
+    height: 6%;
+    width: 6%;
+    left: 45%;
+    transition-duration:0.5s ;
+    background-color: rgb(127, 204, 214);
+    color: rgb(36, 1, 1);
+}
+.butcss5{
+    position: fixed;
+    top:25% ;
+    height: 6%;
+    width: 6%;
+    left: 70%;
+    transition-duration:0.5s ;
+    background-color: rgb(127, 204, 214);
+    color: rgb(36, 1, 1);
+}
+.butcss6{
+    position: fixed;
+    top:35% ;
+    height: 6%;
+    width: 6%;
+    left: 70%;
+    transition-duration:0.5s ;
+    background-color: rgb(127, 204, 214);
+    color: rgb(36, 1, 1);
+}
+
+.backcss{
+    position: fixed;
+    top:80% ;
+    height: 6%;
+    width: 6%;
+    left: 150%;
+    transition-duration:0.5s ;
+    background-color: rgb(50, 34, 66);
+    color: rgb(127, 167, 105);
+}
+
+.seit11css{
+    position: fixed;
+    top:20% ;
+    height: 6%;
+    width: 10%;
+    left: -15%;
+    transition-duration:0.5s ;
+    background-color: rgb(50, 34, 66);
+    color: rgb(127, 167, 105);
+}
+.seit12css{
+    position: fixed;
+    top:40% ;
+    height: 6%;
+    width: 10%;
+    left: -15%;
+    transition-duration:0.5s ;
+    background-color: rgb(50, 34, 66);
+    color: rgb(127, 167, 105);
+}
+.seit13css{
+    position: fixed;
+    top:60% ;
+    height: 6%;
+    width: 10%;
+    left: -15%;
+    transition-duration:0.5s ;
+    background-color: rgb(50, 34, 66);
+    color: rgb(127, 167, 105); 
+}
+.seit14css{
+    position: fixed;
+    top:80% ;
+    height: 6%;
+    width: 10%;
+    left: -15%;
+    transition-duration:0.5s ;
+    background-color: rgb(50, 34, 66);
+    color: rgb(127, 167, 105);
+}
+
+.seit21css{
+    position: fixed;
+    top:20% ;
+    height: 6%;
+    width: 10%;
+    left: -15%;
+    transition-duration:0.5s ;
+    background-color: rgb(50, 34, 66);
+    color: rgb(127, 167, 105);
+}
+.seit22css{
+    position: fixed;
+    top:40% ;
+    height: 6%;
+    width: 10%;
+    left: -15%;
+    transition-duration:0.5s ;
+    background-color: rgb(50, 34, 66);
+    color: rgb(127, 167, 105);
+}
+.seit23css{
+    position: fixed;
+    top:60% ;
+    height: 6%;
+    width: 10%;
+    left: -15%;
+    transition-duration:0.5s ;
+    background-color: rgb(50, 34, 66);
+    color: rgb(127, 167, 105); 
+}
+.seit24css{
+    position: fixed;
+    top:80% ;
+    height: 6%;
+    width: 10%;
+    left: -15%;
+    transition-duration:0.5s ;
+    background-color: rgb(50, 34, 66);
+    color: rgb(127, 167, 105);
+}
+
+.seit31css{
+    position: fixed;
+    top:20% ;
+    height: 6%;
+    width: 10%;
+    left: -15%;
+    transition-duration:0.5s ;
+    background-color: rgb(50, 34, 66);
+    color: rgb(127, 167, 105);
+}
+.seit32css{
+    position: fixed;
+    top:40% ;
+    height: 6%;
+    width: 10%;
+    left: -15%;
+    transition-duration:0.5s ;
+    background-color: rgb(50, 34, 66);
+    color: rgb(127, 167, 105);
+}
+.seit33css{
+    position: fixed;
+    top:60% ;
+    height: 6%;
+    width: 10%;
+    left: -15%;
+    transition-duration:0.5s ;
+    background-color: rgb(50, 34, 66);
+    color: rgb(127, 167, 105); 
+}
+.seit34css{
+    position: fixed;
+    top:80% ;
+    height: 6%;
+    width: 10%;
+    left: -15%;
+    transition-duration:0.5s ;
+    background-color: rgb(50, 34, 66);
+    color: rgb(127, 167, 105);
+}
+
+.seit41css{
+    position: fixed;
+    top:20% ;
+    height: 6%;
+    width: 10%;
+    left: -15%;
+    transition-duration:0.5s ;
+    background-color: rgb(50, 34, 66);
+    color: rgb(127, 167, 105);
+}
+.seit42css{
+    position: fixed;
+    top:40% ;
+    height: 6%;
+    width: 10%;
+    left: -15%;
+    transition-duration:0.5s ;
+    background-color: rgb(50, 34, 66);
+    color: rgb(127, 167, 105);
+}
+.seit43css{
+    position: fixed;
+    top:60% ;
+    height: 6%;
+    width: 10%;
+    left: -15%;
+    transition-duration:0.5s ;
+    background-color: rgb(50, 34, 66);
+    color: rgb(127, 167, 105); 
+}
+.seit44css{
+    position: fixed;
+    top:80% ;
+    height: 6%;
+    width: 10%;
+    left: -15%;
+    transition-duration:0.5s ;
+    background-color: rgb(50, 34, 66);
+    color: rgb(127, 167, 105);
+}
+
+.seit51css{
+    position: fixed;
+    top:20% ;
+    height: 6%;
+    width: 10%;
+    left: -15%;
+    transition-duration:0.5s ;
+    background-color: rgb(50, 34, 66);
+    color: rgb(127, 167, 105);
+}
+.seit52css{
+    position: fixed;
+    top:40% ;
+    height: 6%;
+    width: 10%;
+    left: -15%;
+    transition-duration:0.5s ;
+    background-color: rgb(50, 34, 66);
+    color: rgb(127, 167, 105);
+}
+.seit53css{
+    position: fixed;
+    top:60% ;
+    height: 6%;
+    width: 10%;
+    left: -15%;
+    transition-duration:0.5s ;
+    background-color: rgb(50, 34, 66);
+    color: rgb(127, 167, 105); 
+}
+.seit54css{
+    position: fixed;
+    top:80% ;
+    height: 6%;
+    width: 10%;
+    left: -15%;
+    transition-duration:0.5s ;
+    background-color: rgb(50, 34, 66);
+    color: rgb(127, 167, 105);
+}
+
+.seit61css{
+    position: fixed;
+    top:20% ;
+    height: 6%;
+    width: 10%;
+    left: -15%;
+    transition-duration:0.5s ;
+    background-color: rgb(50, 34, 66);
+    color: rgb(127, 167, 105);
+}
+.seit62css{
+    position: fixed;
+    top:40% ;
+    height: 6%;
+    width: 10%;
+    left: -15%;
+    transition-duration:0.5s ;
+    background-color: rgb(50, 34, 66);
+    color: rgb(127, 167, 105);
+}
+.seit63css{
+    position: fixed;
+    top:60% ;
+    height: 6%;
+    width: 10%;
+    left: -15%;
+    transition-duration:0.5s ;
+    background-color: rgb(50, 34, 66);
+    color: rgb(127, 167, 105); 
+}
+.seit64css{
+    position: fixed;
+    top:80% ;
+    height: 6%;
+    width: 10%;
+    left: -15%;
+    transition-duration:0.5s ;
+    background-color: rgb(50, 34, 66);
+    color: rgb(127, 167, 105);
+}
